@@ -3,7 +3,8 @@
 # Skills
 * HTML Basics
 * CSS Basics
-* Git Basics 
+* JavaScript Basics
+* Git Basics, GitHub Basics 
 # Education
 * Togliatti State University
 # English skills 
