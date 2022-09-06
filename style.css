@@ -1,13 +1,13 @@
 *{
   margin: 0;
-  padding: 0;  
-}  
+  padding: 0;
+}
 
 body{
   display: block;
   background-color: #FFFFFF;
   max-width: 1200px;
-  margin: 0 auto;     
+  margin: 0 auto;
 }
 
 /*--------------------------------------------------------------*/
@@ -24,6 +24,7 @@ body{
   border-right: 2px solid black;
   border-top: 2px solid black;
 }
+
 .nav-list a{
   color: aliceblue;
 }
@@ -40,31 +41,27 @@ body{
   border-left: 2px solid black;
   border-right: 2px solid black;
   border-top: 2px solid black;
-    
 }
 
 .main-inf h1{
-  
   display: flex;
   height: 300px;
   width: 600px;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
 }
 
 .block{
-
-  display: flex; 
+  display: flex;
   height: 300px;
-  width: 600px; 
+  width: 600px;
   justify-content: center;
   align-items: center;
-  
 }
 
 .in-block{
   height: 300px;
-  width: 300px; 
+  width: 300px;
 }
 
 /*--------------------------------------------------------------*/
@@ -72,14 +69,12 @@ body{
 .main-text{
   display: flex;
   flex-direction: column;
-  
   list-style: none;
   color: rgb(0, 0, 0);
   margin: 0px;
   padding: 0px;
   align-items: left;
   text-align: left;
-  
 }
 
 .border{
@@ -88,20 +83,17 @@ body{
   border-top: 2px solid black;
   font-size: 32px;
   background-color:burlywood;
-
 }
 
 .main-text p,li,div{
   list-style: none;
   font-size: 24px;
-    
 }
 
 .main-text a{
   font-size: 24px;
   text-decoration:none;
   color:blue;
-  
 }
 
 /*--------------------------------------------------------------*/
@@ -109,13 +101,12 @@ body{
 .footer{
   display: flex;
   justify-content: space-around;
-  background-color:dodgerblue; 
+  background-color:dodgerblue;
   height: 128px;
   font-size: 32px;
   text-align: center;
   align-items: center;
   border: 2px solid black;
-  
 }
 
 .footer div{
@@ -126,4 +117,5 @@ body{
   background-color: aliceblue;
   height: 96px;
   width: 96px;
+  
 }
